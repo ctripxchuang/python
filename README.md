@@ -46,5 +46,6 @@
 <a name="公众号"></a>
 
 
-<img src='https://huangxincheng.oss-cn-hangzhou.aliyuncs.com/img/qrcode_for_gh_c5bc91a6c25b_258.jpg' width='258px' height='258px' />
+![](https://huangxincheng.oss-cn-hangzhou.aliyuncs.com/img/qrcode_for_gh_c5bc91a6c25b_258.jpg)
+
 
