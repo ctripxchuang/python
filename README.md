@@ -19,6 +19,26 @@
 
 - [Python 入门系列 —— 7. 数字类型介绍](https://mp.weixin.qq.com/s?__biz=MzU2ODcyMjQyOA==&mid=2247484830&idx=5&sn=7fbc5e74c95c806193d0aede94c8e85f&chksm=fc88d30dcbff5a1bcf0fbfaac539cad57b1ff220d70d50a837b1c3047b88cf8d9d97094ab1e2&token=432862682&lang=zh_CN#rd)
 
+- [Python 入门系列 —— 8. 类型转换](https://mp.weixin.qq.com/s?__biz=MzU2ODcyMjQyOA==&mid=2247484874&idx=4&sn=5e082d106fba2ac24ab18c3731431ddd&chksm=fc88d359cbff5a4fbcd3490a5b56c69328ac8a6edb2ff75c8d6fb05e0fc2adf10c2d4b9fe289&token=915029597&lang=zh_CN#rd)
+
+- [Python 入门系列 —— 10. string 拼接 和 format 介绍](https://mp.weixin.qq.com/s?__biz=MzU2ODcyMjQyOA==&mid=2247484874&idx=1&sn=3aad04d8f845fa3c00cbc330a27478e6&chksm=fc88d359cbff5a4f58a3c9e87bb18133d29ea0f7224ae3cd2afacdd9d2132b014af9660b2312&token=915029597&lang=zh_CN#rd)
+
+- [Python 入门系列 —— 11. string 常用方法介绍](https://mp.weixin.qq.com/s?__biz=MzU2ODcyMjQyOA==&mid=2247484874&idx=2&sn=9e1e562494bd3361eed4a3d9ba0deeee&chksm=fc88d359cbff5a4fd0d18f7e323284976c4bcceb127b11b17b370bcb9533a616cb072734f028&token=915029597&lang=zh_CN#rd)
+
+- [Python 入门系列 —— 12. Booleans 介绍](https://mp.weixin.qq.com/s?__biz=MzU2ODcyMjQyOA==&mid=2247484959&idx=5&sn=0b6cee813c4513046415f6991f7e3752&chksm=fc88d08ccbff599a15e092ab219afd4bcb8cef8d9d7a0e34a283467c245bce46917035c02102&token=915029597&lang=zh_CN#rd)
+
+- [Python 入门系列 —— 13. List 类型简介](https://mp.weixin.qq.com/s?__biz=MzU2ODcyMjQyOA==&mid=2247484959&idx=4&sn=7033e2cb4016e82f8e199d0b72edf8f5&chksm=fc88d08ccbff599ab63d3ae548acf5f980f59ed88b22ef66f9ea1800d10d9adeaa056bf78f72&token=915029597&lang=zh_CN#rd)
+
+- [Python 入门系列 —— 14. List 集合的 CURD 介绍](https://mp.weixin.qq.com/s?__biz=MzU2ODcyMjQyOA==&mid=2247484959&idx=3&sn=40ca088ef1bc9f5afd0f947ceb64f63e&chksm=fc88d08ccbff599abf3d7cb2f2389cf85893697e573d37ce1ebd03770e40b8c152ea32d15258&token=915029597&lang=zh_CN#rd)
+
+- [Python 入门系列 —— 15. List 四种遍历方式及推导式介绍](https://mp.weixin.qq.com/s?__biz=MzU2ODcyMjQyOA==&mid=2247484898&idx=1&sn=f335f407283c9ff1d0019fa0fdcf9899&chksm=fc88d371cbff5a67110073e10e8b12639188eaa5c68416ac9067794111ff9e953ddb22eac3f6&token=915029597&lang=zh_CN#rd)
+
+- [Python 入门系列 —— 16. List 的其他操作介绍](https://mp.weixin.qq.com/s?__biz=MzU2ODcyMjQyOA==&mid=2247484898&idx=2&sn=a5355cd583c20624b5bbeb270b68dc88&chksm=fc88d371cbff5a6776047883998add7dd2bb9877ee7c8ab187bc0c17383454da1329c00a4065&token=915029597&lang=zh_CN#rd)
+
+- [Python 入门系列 —— 17. tuple 简介](https://mp.weixin.qq.com/s?__biz=MzU2ODcyMjQyOA==&mid=2247484959&idx=2&sn=91d8519c7bf9d11cdc48f7b7be573db9&chksm=fc88d08ccbff599a85aa5c6e727e9469d322adf3741a0ad1c95b0f8db8b61a64b5e5265f04d2&token=915029597&lang=zh_CN#rd)
+
+- [Python 入门系列 —— 18. Tuple 的 CURD 操作](https://mp.weixin.qq.com/s?__biz=MzU2ODcyMjQyOA==&mid=2247484959&idx=1&sn=cc4bc6898de10e2297ba3007e1db462f&chksm=fc88d08ccbff599a6c2f3386e59d6114abcc8b9dde955b534021290b432536d670588e7c72b6&token=915029597&lang=zh_CN#rd)
+
 
 ### 我的其他平台账号
 
